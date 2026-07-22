@@ -42,6 +42,8 @@ This project is licensed under the **MIT License** – see the `LICENSE` file fo
 Department of Chemical Engineering, SVNIT Surat  
 Email: U23CH077@ched.svnit.ac.in
 
+---
+
 
 ## 🛠️ How to Run the Code
 
