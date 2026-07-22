@@ -30,6 +30,19 @@ co2-methanol-tea-india/
 
 ---
 
+## 📜 License
+This project is licensed under the **MIT License** – see the `LICENSE` file for details.
+
+---
+
+---
+
+## 📧 Contact
+**Yug Soni**  
+Department of Chemical Engineering, SVNIT Surat  
+Email: U23CH077@ched.svnit.ac.in
+
+
 ## 🛠️ How to Run the Code
 
 1. **Install dependencies:**
