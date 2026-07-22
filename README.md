@@ -1,6 +1,6 @@
 
 
-```markdown
+
 <div align="center">
 
 # CO2-to-Green Methanol: India-Specific Techno-Economic Assessment
